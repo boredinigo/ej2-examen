@@ -13,9 +13,11 @@ public class Tweet {
 	 * 
 	 */
 	public Tweet() {
-		// TODO Auto-generated constructor stub
+		
 	}
-	
+	private string nombre;
+	private string mensaje;
+	private date fecha;
 	
 	
 	/**
